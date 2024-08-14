@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchainhub
+langchain_huggingface
+langchain-chroma
+langchain-text-splitters
+pypdf
+tqdm
+transformers
+torch
+accelerate
+bitsandbytes
